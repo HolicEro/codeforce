@@ -1,0 +1,5 @@
+*.in
+*.out
+input.cpp
+functions.cpp
+readin.cpp
